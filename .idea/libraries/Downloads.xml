@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Downloads">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../ms.mff.cuni.cz/u/h/hudecekp/Downloads" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../../../ms.mff.cuni.cz/u/h/hudecekp/Downloads" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../ms.mff.cuni.cz/u/h/hudecekp/Downloads" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../ms.mff.cuni.cz/u/h/hudecekp/Downloads" recursive="false" type="SOURCES" />
+  </library>
+</component>
