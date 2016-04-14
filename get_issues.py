@@ -11,7 +11,7 @@ count = 100
 url = 'https://api.github.com/repos/python/mypy/issues?state=all&filter=all&per_page=%d' % count
 
 issues = []
-maxcount = 200
+maxcount = None
 
 while url is not None:
     print(url)
